@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Loyft/Loyft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open Source Projects
+<!--- Reject Modernity - Embrace Tradition -->
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 [AutoTask AI](https://github.com/Loyft/autotask-ai)
+
+✨ AI Agent that uses tools and functions to autonomously complete multiple tasks.
+
+</td>
+<td width="33%" valign="top">
+
+#### 📌 [PDF Translate AI](https://github.com/Loyft/pdf-gpt)
+
+✨ Automatically translate large PDF with OpenAI's GPT API or local LLM (soon™).
+
+</td>
+<td width="33%" valign="top">
+
+#### 📌 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot)
+
+✨ Telegram Chatbot that utilizes a locally running LLM via ollama to respond in Chat.
+
+</td>
+</tr>
+</table>
