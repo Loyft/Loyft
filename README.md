@@ -18,7 +18,7 @@
 
 #### [PDF Translate AI](https://github.com/Loyft/pdf-gpt)
 
-✨ Automatically translate large PDF with Ollama and locally running LLM.
+✨ Automatically translate large PDF files with Ollama and locally running LLM.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-0C8CE3?logo=ollama&logoColor=white)
