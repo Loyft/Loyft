@@ -1,41 +1,24 @@
+
+#### Portfolio
+
+🚒 <a href="https://firefleet.de" target="_blank" rel="noopener noreferrer">firefleet.de ↗</a> - Feuerwehr-Verwaltungssoftware
+
+🧑‍🚒 <a href="https://jugendfeuerwehr-digital.de" target="_blank" rel="noopener noreferrer">jugendfeuerwehr-digital.de ↗</a> - Mitgliederverwaltung für Jugendfeuerwehren 
+
+🎯 <a href="https://aim-marketing.io" target="_blank" rel="noopener noreferrer">aim-marketing.io ↗</a> - Marketing und Webdesign Agentur
+
 #### Open Source Projects
 
 <!--- Reject Modernity - Embrace Tradition -->
 
-<table>
-<tr>
-<td width="33%" valign="top">
-  
-#### [AutoTask AI](https://github.com/Loyft/autotask-ai)
+🤖 [AutoTask AI](https://github.com/Loyft/autotask-ai) - AI agent that autonomously completes multiple tasks
 
-✨ AI Agent that uses tools and functions to autonomously complete multiple tasks.
+📄 [PDF Translate AI](https://github.com/Loyft/pdf-gpt) - Translate large PDFs with a local Ollama LLM
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Agent](https://img.shields.io/badge/Agent-00D9FF?logo=robot&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6B35?logoColor=white)
-</td>
-<td width="33%" valign="top">
+💬 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot) - Telegram chatbot powered by a local LLM
 
-#### [PDF Translate AI](https://github.com/Loyft/pdf-gpt)
+📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
 
-✨ Automatically translate large PDF files with Ollama and locally running LLM.
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0C8CE3?logo=ollama&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6B35?logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-#### [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot)
-
-✨ Telegram Chatbot that utilizes a locally running LLM via ollama to respond in Chat.
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0C8CE3?logo=ollama&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6B35?logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white)
-
-</td>
-</tr>
-</table>
+#### Tech Stack
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB&width=28&height=28" alt="Python"/> <img src="https://api.iconify.design/simple-icons:jupyter.svg?color=%23F37626&width=28&height=28" alt="Jupyter"/> <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23000000&width=28&height=28" alt="Next.js"/> <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2306B6D4&width=28&height=28" alt="Tailwind CSS"/> <img src="https://api.iconify.design/simple-icons:ollama.svg?color=%230C8CE3&width=28&height=28" alt="Ollama"/> <img src="https://api.iconify.design/thesvg-color:nousresearch-hermes.svg?width=28&height=28" alt="Hermes"/>
