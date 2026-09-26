@@ -1,23 +1,18 @@
 
 #### Portfolio
 
-🚒 <a href="https://firefleet.de" target="_blank" rel="noopener noreferrer">firefleet.de ↗</a> - Feuerwehr-Verwaltungssoftware
-
-🧑‍🚒 <a href="https://jugendfeuerwehr-digital.de" target="_blank" rel="noopener noreferrer">jugendfeuerwehr-digital.de ↗</a> - Mitgliederverwaltung für Jugendfeuerwehren 
-
-🎯 <a href="https://aim-marketing.io" target="_blank" rel="noopener noreferrer">aim-marketing.io ↗</a> - Marketing und Webdesign Agentur
+- 🚒 <a href="https://firefleet.de" target="_blank" rel="noopener noreferrer">firefleet.de ↗</a> - Feuerwehr-Verwaltungssoftware
+- 🧑‍🚒 <a href="https://jugendfeuerwehr-digital.de" target="_blank" rel="noopener noreferrer">jugendfeuerwehr-digital.de ↗</a> - Mitgliederverwaltung für Jugendfeuerwehren 
+- 🎯 <a href="https://aim-marketing.io" target="_blank" rel="noopener noreferrer">aim-marketing.io ↗</a> - Marketing und Webdesign Agentur
 
 #### Open Source Projects
 
 <!--- Reject Modernity - Embrace Tradition -->
 
-🤖 [AutoTask AI](https://github.com/Loyft/autotask-ai) - AI agent that autonomously completes multiple tasks
-
-📄 [PDF Translate AI](https://github.com/Loyft/pdf-gpt) - Translate large PDFs with a local Ollama LLM
-
-💬 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot) - Telegram chatbot powered by a local LLM
-
-📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
+- 🤖 [AutoTask AI](https://github.com/Loyft/autotask-ai) - AI agent that autonomously completes multiple tasks
+- 📄 [PDF Translate AI](https://github.com/Loyft/pdf-gpt) - Translate large PDFs with a local Ollama LLM
+- 💬 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot) - Telegram chatbot powered by a local LLM
+- 📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
 
 
 #### Tech Stack
