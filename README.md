@@ -9,11 +9,11 @@
 
 <!--- Reject Modernity - Embrace Tradition -->
 
+- 🦊 [Desktop Pet Companions](https://github.com/Loyft/desktop-pets) - Pet companions for your Desktop
+- 📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
 - 🤖 [AutoTask AI](https://github.com/Loyft/autotask-ai) - AI agent that autonomously completes multiple tasks
 - 📄 [PDF Translate AI](https://github.com/Loyft/pdf-gpt) - Translate large PDFs with a local Ollama LLM
 - 💬 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot) - Telegram chatbot powered by a local LLM
-- 📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
-
 
 #### Tech Stack
 <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB&width=28&height=28" alt="Python"/> <img src="https://api.iconify.design/simple-icons:jupyter.svg?color=%23F37626&width=28&height=28" alt="Jupyter"/> <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23000000&width=28&height=28" alt="Next.js"/> <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2306B6D4&width=28&height=28" alt="Tailwind CSS"/> <img src="https://api.iconify.design/simple-icons:ollama.svg?color=%230C8CE3&width=28&height=28" alt="Ollama"/> <img src="https://api.iconify.design/thesvg-color:nousresearch-hermes.svg?width=28&height=28" alt="Hermes"/>
