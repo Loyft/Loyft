@@ -9,8 +9,8 @@
 
 <!--- Reject Modernity - Embrace Tradition -->
 
-- 🦊 [Desktop Pet Companions](https://github.com/Loyft/desktop-pets) - Pet companions for your Desktop
 - 📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered companion for your desktop
+- 🦊 [Desktop Pet Companions](https://github.com/Loyft/desktop-pets) - Pet companions for your Desktop
 - 🤖 [AutoTask AI](https://github.com/Loyft/autotask-ai) - AI agent that autonomously completes multiple tasks
 - 📄 [PDF Translate AI](https://github.com/Loyft/pdf-gpt) - Translate large PDFs with a local Ollama LLM
 - 💬 [LLM Telegram Chatbot](https://github.com/Loyft/local-llm-telegram-chatbot) - Telegram chatbot powered by a local LLM
