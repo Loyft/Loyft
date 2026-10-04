@@ -9,6 +9,7 @@
 
 <!--- Reject Modernity - Embrace Tradition -->
 
+- 🪑 [LLM-Bench](https://github.com/Loyft/llm-Bench) - CLI based LLM Benchmarking Tool
 - 📎 [Clippy LLM](https://github.com/Loyft/clippy-llm) - LLM-powered Companion for your Desktop
 - 🦊 [Desktop Pet Companions](https://github.com/Loyft/desktop-pets) - Pet Companions for your Desktop
 - 🪽 [API-Agent](https://github.com/Loyft/api-agent) - Hermes Skill to create API Endpoints for any Website
